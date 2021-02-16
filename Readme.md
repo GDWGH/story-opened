@@ -1,6 +1,6 @@
-you are in the chinese markdown file
+you are in the chinese markdown file[back to the english markdown file](https://github.com/GDWGH/story-opened/blob/main/Readme-eng.md)
 
-你以佳在简体嘅md文档里
+你以佳在简体嘅md文档里[翻到粤语页面](https://github.com/GDWGH/story-opened/blob/main/Readme-can.md)
 
 你现在在简体的md文档里
 
